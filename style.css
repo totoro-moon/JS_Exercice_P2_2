@@ -2,3 +2,9 @@ p{
   background-color: rgb(97, 178, 245);
   padding: 10px;
 }
+input{
+  border-radius: 5px;
+  box-shadow: 0 2px #999;
+  width: 210px;
+  margin: 10px;
+}
